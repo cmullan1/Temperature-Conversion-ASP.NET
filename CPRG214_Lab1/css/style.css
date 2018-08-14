@@ -1,0 +1,39 @@
+﻿/*
+ * CPGR214 Lab1
+ * Author:  Corinne Mullan
+ * Date:    July 19, 2018
+ */
+
+img {
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 81px;
+    height: 240px;
+}
+
+.validator {
+    color: red;
+}
+
+.error {
+    color: red;
+}
+
+.control {
+    margin: 10px;
+    padding: 5px;
+}
+
+.readonly {
+    background-color: lightblue;
+}
+
+.button {
+    margin: 10px;
+    padding: 10px;
+}
+
+
